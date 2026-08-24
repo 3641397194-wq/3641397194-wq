@@ -11,9 +11,10 @@ USER = "3641397194-wq"
 SIZE = 12
 GAP = 3
 STRIDE = SIZE + GAP
-PAD_X = 24
-PAD_Y = 28
 WEEKS = 53
+CANVAS_W = 960
+PAD_X = (CANVAS_W - WEEKS * STRIDE) // 2
+PAD_Y = 28
 DUR_STEP = 0.16
 SNAKE_LEN = 5
 
@@ -134,7 +135,7 @@ def month_labels(start: dt.date) -> list[tuple[int, str]]:
 def render(theme: dict, cells, path, start: dt.date) -> str:
     n = len(path)
     dur = f"{n * DUR_STEP:.2f}s"
-    width = PAD_X + WEEKS * STRIDE + 8
+    width = CANVAS_W
     height = PAD_Y + 7 * STRIDE + 18
     index_of = {(w, d): i for i, (w, d) in enumerate(path)}
 
@@ -191,7 +192,7 @@ def render(theme: dict, cells, path, start: dt.date) -> str:
     for label, row in zip(wd, wd_rows):
         _, y = xy(0, row)
         weekdays.append(
-            f'<text x="2" y="{y + 10}" fill="{theme["label"]}" font-size="9" font-family="Segoe UI,PingFang SC,Microsoft YaHei,sans-serif">{label}</text>'
+            f'<text x="10" y="{y + 10}" fill="{theme["label"]}" font-size="9" font-family="Segoe UI,PingFang SC,Microsoft YaHei,sans-serif">{label}</text>'
         )
 
     style = "".join(css)
