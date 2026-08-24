@@ -28,6 +28,14 @@
     <img src="https://img.shields.io/badge/Windows-10%2F11-2A1810?style=for-the-badge&amp;logo=windows&amp;logoColor=F7EFE3" alt="Windows" />
   </p>
 
+  <br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="assets/github-contribution-grid-snake.svg" />
+  </picture>
+
 </div>
 
 ### 代表仓库
