@@ -36,11 +36,26 @@
   <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro">
     <img src="assets/card-product.svg" alt="冷咖啡项目卡" />
   </a>
+</div>
+
+### QQ 群
+
+两个 QQ 群，扫码或搜群号都能进。
+
+<div align="center">
+  <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro#社群">
+    <img src="assets/card-qq-1.svg" alt="QQ 交流群 1057540028" />
+  </a>
   &nbsp;
   <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro#社群">
-    <img src="assets/card-community.svg" alt="冷咖啡社群卡" />
+    <img src="assets/card-qq-2.svg" alt="QQ 专题群 1077074552" />
   </a>
 </div>
 
-QQ 交流群 `1057540028` · 专题群 `1077074552`  
+<p align="center">
+  <strong>QQ 交流群</strong> <code>1057540028</code>
+  &nbsp;·&nbsp;
+  <strong>QQ 专题群</strong> <code>1077074552</code>
+</p>
+
 Telegram [`@chachachacha99999`](https://t.me/chachachacha99999) · [`@chachacha99999999`](https://t.me/chachacha99999999)
