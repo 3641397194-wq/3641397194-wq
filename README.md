@@ -8,7 +8,7 @@
 
 ### Hi, 我是茶
 
-本地四模型破甲工作台作者。口令「冷咖啡」开工。
+冷咖啡 · 一键破甲越狱。原生窗口作者。口令「冷咖啡」开工。
 
 ### GitHub Stats
 
@@ -25,6 +25,7 @@
   <p>
     <img src="https://img.shields.io/github/forks/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro?style=for-the-badge&amp;color=orange&amp;label=Forks&amp;labelColor=111827" alt="Forks" />
     <img src="https://img.shields.io/badge/Python-3.10%2B-C45C14?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Electron-Native-C45C14?style=for-the-badge" alt="Electron" />
     <img src="https://img.shields.io/badge/Windows-10%2F11-2A1810?style=for-the-badge&amp;logo=windows&amp;logoColor=F7EFE3" alt="Windows" />
   </p>
 
