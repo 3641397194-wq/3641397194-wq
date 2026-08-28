@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C45C14&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=%E2%98%95+%E5%86%B7%E5%92%96%E5%95%A1;Hi%2C+%E6%88%91%E6%98%AF%E8%8C%B6;GPT-5.6+%C2%B7+Claude+%C2%B7+Grok+4.6+%C2%B7+DeepSeek+v4+Pro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C45C14&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=%E2%98%95+%E5%86%B7%E5%92%96%E5%95%A1;%E4%B8%80%E9%94%AE%E7%A0%B4%E7%94%B2%E8%B6%8A%E7%8B%B1;GPT-5.6+%C2%B7+Claude+%C2%B7+Grok+4.6+%C2%B7+DeepSeek+v4+Pro" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,7 +8,11 @@
 
 ### Hi, 我是茶
 
-冷咖啡 · 一键破甲越狱。原生窗口作者。口令「冷咖啡」开工。
+冷咖啡 · 一键破甲越狱。原生窗口，锁盘五刃开场。口令「冷咖啡」开工。
+
+<p align="center">
+  <img src="assets/window-v11.svg" width="960" alt="冷咖啡原生窗口" />
+</p>
 
 ### GitHub Stats
 
