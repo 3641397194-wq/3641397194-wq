@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/profile-hero.svg" width="960" alt="茶 · 冷咖啡" />
+  <img src="assets/hero-v11.svg" width="960" alt="冷咖啡 · 一键破甲越狱" />
 </p>
 
 ### Hi, 我是茶
