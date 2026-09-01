@@ -4,7 +4,9 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro/main/docs/assets/product-icon.png" width="112" alt="冷咖啡软件图标" /></p>
 
-<h1 align="center"><a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro">gpt5.6-claude-grok4.6-deepseekv4pro</a>-glm5.3破甲越狱</h1>
+<h1 align="center">茶</h1>
+
+<p align="center"><a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro"><strong>gpt5.6-claude-grok4.6-deepseekv4pro</strong></a>-glm5.3破甲越狱</p>
 
 <p align="center"><strong>破甲思路 · 越界表达 · 本地优先的 BREAK//OPEN 工作台</strong></p>
 
