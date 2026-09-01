@@ -1,81 +1,57 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=2800&amp;pause=1000&amp;color=C45C14&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=%E2%98%95+%E5%86%B7%E5%92%96%E5%95%A1;%E4%B8%80%E9%94%AE%E7%A0%B4%E7%94%B2%E8%B6%8A%E7%8B%B1;GPT-5.6+%C2%B7+Claude+%C2%B7+Grok+4.6+%C2%B7+DeepSeek+v4+Pro" alt="Typing SVG" />
+  <img src="assets/profile-breakline.svg" width="960" alt="ColdBrew Zero Breakline profile visual" />
 </p>
+
+<h1 align="center">冷咖啡 / ColdBrew Zero</h1>
+
+<p align="center"><strong>破甲思路 · 越界表达 · 本地优先的 BREAK//OPEN 工作台</strong></p>
 
 <p align="center">
-  <img src="assets/hero-v11.svg" width="960" alt="冷咖啡 · 一键破甲越狱" />
+  <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro">项目仓库</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro#快速运行">快速运行</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro#社群入口">社群入口</a>
 </p>
 
-### Hi, 我是茶
+## 现在做什么
 
-冷咖啡 · 一键破甲越狱。原生窗口，锁盘五刃开场。口令「冷咖啡」开工。
+我在做 ColdBrew Zero：一套从零原创的提示词工作台，把目标锁定、上下文整理、输出生成和检查回看压进一条清晰链路。
+
+- 品牌启动词：`冷咖啡`
+- 工作控制词：`BREAK//OPEN`
+- 工作方式：`OBJECTIVE -> CONTEXT -> OUTPUT -> CHECK`
+- 交付形态：Python CLI + Electron 桌面版
+
+## 代表项目
 
 <p align="center">
-  <img src="assets/window-v11.svg" width="960" alt="冷咖啡原生窗口" />
-</p>
-
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/3641397194-wq?tab=repositories">
-    <img src="https://img.shields.io/github/stars/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro?style=for-the-badge&amp;label=TOTAL%20GITHUB%20STARS&amp;color=FFD700&amp;labelColor=111827&amp;logo=github&amp;logoColor=white" alt="total GitHub stars" height="64" />
-  </a>
-</p>
-
-<p align="center"><strong>冷咖啡仓库的 star 会实时刷在这枚金标上</strong></p>
-
-<div align="center">
-
-  <p>
-    <img src="https://img.shields.io/github/forks/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro?style=for-the-badge&amp;color=orange&amp;label=Forks&amp;labelColor=111827" alt="Forks" />
-    <img src="https://img.shields.io/badge/Python-3.10%2B-C45C14?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Electron-Native-C45C14?style=for-the-badge" alt="Electron" />
-    <img src="https://img.shields.io/badge/Windows-10%2F11-2A1810?style=for-the-badge&amp;logo=windows&amp;logoColor=F7EFE3" alt="Windows" />
-  </p>
-
-  <br />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="assets/github-contribution-grid-snake.svg" />
-  </picture>
-
-</div>
-
-### 代表仓库
-
-<div align="center">
   <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro">
-    <img src="assets/card-product.svg" width="470" alt="冷咖啡项目卡" />
+    <img src="https://raw.githubusercontent.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro/main/docs/assets/hero-breakline-v1.svg" width="960" alt="ColdBrew Zero Breakline project" />
   </a>
-</div>
+</p>
 
-<div align="center">
+## 视觉方向
 
-### QQ 群
+新主页采用“断锁蓝图”系统：深色工程底、青绿信号线、暖金标注、清晰模块和短路径导航。原有产品图、社群宣传图和入口全部保留并重新编排。
 
-两个 QQ 群，扫码或搜群号都能进。
+## 社群
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro#社群"><img src="assets/card-qq-1.svg" width="420" alt="QQ 交流群 1057540028"></a><br>
-      <strong>QQ 交流群</strong><br>
-      <code>1057540028</code>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro#社群"><img src="assets/card-qq-2.svg" width="420" alt="QQ 专题群 1077074552"></a><br>
-      <strong>QQ 专题群</strong><br>
-      <code>1077074552</code>
-    </td>
+    <td align="center" width="50%"><strong>QQ 交流群</strong><br><code>1057540028</code></td>
+    <td align="center" width="50%"><strong>QQ 专题群</strong><br><code>1077074552</code></td>
   </tr>
 </table>
 
-<p>
-Telegram 群 <a href="https://t.me/chachachacha99999"><code>@chachachacha99999</code></a>
-&nbsp;·&nbsp;
-频道 <a href="https://t.me/chachacha99999999"><code>@chachacha99999999</code></a>
-</p>
+Telegram 群 [@chachachacha99999](https://t.me/chachachacha99999) &nbsp;·&nbsp; 频道 [@chachachacha99999999](https://t.me/chachachacha99999999)
 
-</div>
+## 快速开始
+
+```powershell
+git clone https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro.git
+cd gpt5.6-claude-grok4.6-deepseekv4pro
+python coldbrew.py --activate 冷咖啡 --profile MAX --prompt "把这段需求拆成可执行步骤"
+```
+
+桌面版位于 `desktop/`，主页素材位于 `docs/`。
