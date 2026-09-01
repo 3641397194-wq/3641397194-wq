@@ -2,7 +2,9 @@
   <img src="assets/profile-breakline.svg" width="960" alt="ColdBrew Zero Breakline profile visual" />
 </p>
 
-<h1 align="center">冷咖啡 / ColdBrew Zero</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro/main/docs/assets/product-icon.png" width="112" alt="冷咖啡软件图标" /></p>
+
+<h1 align="center"><a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro">gpt5.6-claude-grok4.6-deepseekv4pro</a>-glm5.3破甲越狱</h1>
 
 <p align="center"><strong>破甲思路 · 越界表达 · 本地优先的 BREAK//OPEN 工作台</strong></p>
 
@@ -21,6 +23,7 @@
 - 品牌启动词：`冷咖啡`
 - 工作控制词：`BREAK//OPEN`
 - 工作方式：`OBJECTIVE -> CONTEXT -> OUTPUT -> CHECK`
+- 模型席位：GPT-5.6、Claude、Grok 4.6、DeepSeek v4 Pro、GLM 5.3
 - 交付形态：Python CLI + Electron 桌面版
 
 ## 代表项目
