@@ -1,55 +1,55 @@
-<p align="center">
-  <img src="assets/profile-breakline.svg" width="960" alt="ColdBrew Zero Breakline profile visual" />
+<div align="center">
+
+<img src="assets/profile-breakline.svg" width="960" alt="茶 / 冷咖啡黑红漫画风主页视觉" />
+
+# 茶 / CHA
+
+**冷咖啡 · ColdBrew Zero · BREAK//OPEN**
+
+黑、白、绯红三种信号，组成我的提示词工作台与视觉实验室。
+
+<p>
+  <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro">打开项目仓库</a>
+  ·
+  <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro/blob/main/docs/index.html">查看完整主页</a>
+  ·
+  <a href="https://t.me/chachachacha99999">Telegram 群</a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro/main/docs/assets/product-icon.png" width="112" alt="冷咖啡软件图标" /></p>
+</div>
 
-<h1 align="center">茶</h1>
+## 频道信号
 
-<p align="center"><a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro"><strong>gpt5.6-claude-grok4.6-deepseekv4pro</strong></a>-glm5.3破甲越狱</p>
-
-<p align="center"><strong>破甲思路 · 越界表达 · 本地优先的 BREAK//OPEN 工作台</strong></p>
-
-<p align="center">
-  <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro">项目仓库</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro#快速运行">快速运行</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro#社群入口">社群入口</a>
-</p>
-
-## 现在做什么
-
-我在做 ColdBrew Zero：一套从零原创的提示词工作台，把目标锁定、上下文整理、输出生成和检查回看压进一条清晰链路。
-
-- 品牌启动词：`冷咖啡`
-- 工作控制词：`BREAK//OPEN`
-- 工作方式：`OBJECTIVE -> CONTEXT -> OUTPUT -> CHECK`
-- 模型席位：GPT-5.6、Claude、Grok 4.6、DeepSeek v4 Pro、GLM 5.3
-- 交付形态：Python CLI + Electron 桌面版
+| 信号 | 内容 |
+| --- | --- |
+| 品牌启动词 | `冷咖啡` |
+| 工作控制词 | `BREAK//OPEN` |
+| 工作链 | `OBJECTIVE -> CONTEXT -> OUTPUT -> CHECK` |
+| 模型席位 | GPT-5.6、Claude、Grok 4.6、DeepSeek v4 Pro、GLM 5.3 |
+| 交付形态 | Python CLI + Electron 桌面版 |
 
 ## 代表项目
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro">
-    <img src="https://raw.githubusercontent.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro/main/docs/assets/hero-breakline-v1.svg" width="960" alt="ColdBrew Zero Breakline project" />
+    <img src="assets/card-product.svg" width="470" alt="冷咖啡 BREAK//OPEN 项目卡" />
   </a>
-</p>
+</div>
 
-## 视觉方向
+冷咖啡项目主页和桌面软件现在统一采用黑白漫画、绯红标注、斜切分镜和面具轮廓的原创视觉系统。主页首屏给出产品主视觉，细节页保留架构图、模型席位和运行入口。
 
-新主页采用“断锁蓝图”系统：深色工程底、青绿信号线、暖金标注、清晰模块和短路径导航。原有产品图、社群宣传图和入口全部保留并重新编排。
+## 社群入口
 
-## 社群
+<div align="center">
+  <img src="assets/card-community.svg" width="960" alt="冷咖啡 QQ 社群卡" />
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="50%"><strong>QQ 交流群</strong><br><code>1057540028</code></td>
-    <td align="center" width="50%"><strong>QQ 专题群</strong><br><code>1077074552</code></td>
-  </tr>
-</table>
-
-Telegram 群 [@chachachacha99999](https://t.me/chachachacha99999) &nbsp;·&nbsp; 频道 [@chachachacha99999999](https://t.me/chachachacha99999999)
+| 平台 | 入口 |
+| --- | --- |
+| QQ 交流群 | `1057540028` |
+| QQ 专题群 | `1077074552` |
+| Telegram 群 | [@chachachacha99999](https://t.me/chachachacha99999) |
+| Telegram 频道 | [@chachachacha99999999](https://t.me/chachachacha99999999) |
 
 ## 快速开始
 
@@ -59,4 +59,10 @@ cd gpt5.6-claude-grok4.6-deepseekv4pro
 python coldbrew.py --activate 冷咖啡 --profile MAX --prompt "把这段需求拆成可执行步骤"
 ```
 
-桌面版位于 `desktop/`，主页素材位于 `docs/`。
+桌面版位于 `desktop/`，完整主页位于 `docs/index.html`。所有输入都由运行者明确传入。
+
+## 视觉资产
+
+- [项目主页](https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro/blob/main/docs/index.html)：Tokyo Ghoul mood / 黑红分镜系统
+- [产品图标](https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro/tree/main/docs/assets)：软件图标、模型卡、架构图与社群宣传图
+- [主页素材](assets/)：个人主页 banner、项目卡与社群卡

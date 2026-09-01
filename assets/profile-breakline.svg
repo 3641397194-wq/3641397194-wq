@@ -1,40 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
-  <title id="title">ColdBrew Zero profile blueprint</title>
-  <desc id="desc">A clean technical blueprint for the ColdBrew Zero breakline workbench.</desc>
-  <rect width="1600" height="820" fill="#0b1118"/>
-  <rect x="46" y="46" width="1508" height="728" fill="#111b25" stroke="#2b3d4a" stroke-width="2"/>
-  <path d="M46 144H1554M46 650H1554M390 46V774M1160 46V774" stroke="#21313d" stroke-width="1"/>
-  <text x="74" y="112" fill="#91a7b2" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">COLD BREW ZERO / PROFILE 2026</text>
-  <text x="74" y="350" fill="#f3f6f2" font-family="Arial,sans-serif" font-size="74" font-weight="700">BREAKLINE</text>
-  <text x="78" y="407" fill="#f8ba5c" font-family="Arial,sans-serif" font-size="30" font-weight="700">破甲思路 · 越界表达</text>
-  <text x="78" y="456" fill="#9eb0b8" font-family="Arial,sans-serif" font-size="18">ColdBrew Zero / prompt systems / visual experiments</text>
-  <rect x="74" y="520" width="232" height="58" fill="#6ce6c0"/>
-  <text x="190" y="557" text-anchor="middle" fill="#0b1118" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">OPEN THE CORE</text>
-  <rect x="322" y="520" width="212" height="58" fill="#202e39" stroke="#47606d"/>
-  <text x="428" y="557" text-anchor="middle" fill="#f3f6f2" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">冷咖啡</text>
-  <g transform="translate(690 182)">
-    <rect width="382" height="354" fill="#0b1118" stroke="#f8ba5c" stroke-width="2"/>
-    <text x="28" y="42" fill="#f8ba5c" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">PROFILE / 01</text>
-    <text x="28" y="85" fill="#f3f6f2" font-family="Arial,sans-serif" font-size="24" font-weight="700">Target lock</text>
-    <rect x="28" y="112" width="326" height="62" fill="#16232d" stroke="#314956"/>
-    <text x="48" y="150" fill="#91a7b2" font-family="monospace" font-size="16">BREAK//OPEN / explicit</text>
-    <path d="M28 214H354M28 242H286M28 270H324" stroke="#6ce6c0" stroke-width="4"/>
-    <path d="M40 310H340" stroke="#ff7666" stroke-width="6"/>
-    <text x="28" y="338" fill="#9eb0b8" font-family="Arial,sans-serif" font-size="14">clear intent / sharp output / repeatable runs</text>
+  <title id="title">Cha / ColdBrew Zero Tokyo Ghoul mood profile</title>
+  <desc id="desc">An original black, white and crimson manga-inspired profile banner with a mask silhouette and signal lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#080808"/>
+      <stop offset=".58" stop-color="#171315"/>
+      <stop offset="1" stop-color="#330911"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ff6371"/>
+      <stop offset="1" stop-color="#9d0e28"/>
+    </linearGradient>
+    <pattern id="grain" width="14" height="14" patternUnits="userSpaceOnUse">
+      <path d="M0 13L13 0M-7 13L13 -7M7 20L20 7" stroke="#fff" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="820" fill="url(#bg)"/>
+  <rect x="38" y="38" width="1524" height="744" fill="none" stroke="#4a3034" stroke-width="2"/>
+  <rect x="38" y="38" width="1524" height="744" fill="url(#grain)" opacity=".32"/>
+  <path d="M38 158H1562M38 660H1562M420 38V782M1190 38V782" stroke="#39262a"/>
+  <path d="M60 610L580 70M1540 190L1110 620" stroke="#c7193e" stroke-opacity=".35" stroke-width="3"/>
+  <g font-family="Arial,Microsoft YaHei,sans-serif">
+    <text x="76" y="112" fill="#b6a9aa" font-size="18" letter-spacing="7">CHA / COLD BREW ZERO / PROFILE 2026</text>
+    <text x="76" y="348" fill="#f4f0eb" font-size="92" font-weight="800" letter-spacing="3">冷咖啡</text>
+    <text x="80" y="420" fill="#ff4f61" font-size="36" font-weight="700" letter-spacing="5">BREAK//OPEN · 黑红分镜工作台</text>
+    <text x="80" y="466" fill="#aa9fa0" font-size="18">prompt systems / visual experiments / explicit input</text>
+    <rect x="78" y="530" width="236" height="56" fill="#e63a52"/>
+    <text x="196" y="566" text-anchor="middle" fill="#160708" font-size="16" font-weight="700" letter-spacing="3">OPEN THE CORE</text>
+    <rect x="330" y="530" width="176" height="56" fill="#1e1719" stroke="#6d4148"/>
+    <text x="418" y="566" text-anchor="middle" fill="#f4f0eb" font-size="16" font-weight="700" letter-spacing="2">茶 / CHA</text>
   </g>
-  <g transform="translate(1200 102)">
-    <text x="0" y="0" fill="#91a7b2" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">PROFILE SIGNAL</text>
-    <rect y="28" width="272" height="46" fill="#16232d" stroke="#47606d"/>
-    <rect y="90" width="272" height="46" fill="#16232d" stroke="#47606d"/>
-    <rect y="152" width="272" height="46" fill="#16232d" stroke="#47606d"/>
-    <rect y="214" width="272" height="46" fill="#16232d" stroke="#47606d"/>
-    <text x="20" y="58" fill="#6ce6c0" font-family="monospace" font-size="14">01 / BUILD</text>
-    <text x="20" y="120" fill="#f8ba5c" font-family="monospace" font-size="14">02 / BREAK</text>
-    <text x="20" y="182" fill="#74c7ff" font-family="monospace" font-size="14">03 / SHIP</text>
-    <text x="20" y="244" fill="#ff7666" font-family="monospace" font-size="14">04 / REPEAT</text>
-    <path d="M136 74V90M136 136V152M136 198V214" stroke="#91a7b2" stroke-width="2"/>
+  <g transform="translate(1010 116)">
+    <path d="M148 18C64 34 20 112 42 214c16 76 72 150 150 196 78-46 134-120 150-196 22-102-22-180-106-196-34-7-54-7-88 0Z" fill="#0a0a0a" stroke="#f4f0eb" stroke-width="5"/>
+    <path d="M70 124c42-35 78-47 122-43 44-4 80 8 122 43" fill="none" stroke="#a8122c" stroke-width="9"/>
+    <path d="M115 178c23-17 42-23 77-23 35 0 54 6 77 23" fill="none" stroke="#f4f0eb" stroke-width="4"/>
+    <path d="M101 246c26 23 54 34 91 34s65-11 91-34" fill="none" stroke="#e63a52" stroke-width="7"/>
+    <path d="M183 282v93" stroke="#f4f0eb" stroke-width="4"/>
+    <circle cx="192" cy="167" r="11" fill="#e63a52"/>
+    <circle cx="262" cy="167" r="11" fill="#e63a52"/>
+    <path d="M32 420H350M56 448H326M84 476H298" stroke="#ff4f61" stroke-width="4"/>
   </g>
-  <text x="690" y="664" fill="#91a7b2" font-family="monospace" font-size="14" letter-spacing="2">SIGNAL / BRAND ACTIVATION</text>
-  <text x="690" y="708" fill="#f3f6f2" font-family="Arial,sans-serif" font-size="26" font-weight="700">冷咖啡  -&gt;  BREAK//OPEN</text>
-  <text x="1508" y="744" text-anchor="end" fill="#91a7b2" font-family="monospace" font-size="13">DESIGNED FROM ZERO / 2026</text>
+  <g font-family="Consolas,monospace">
+    <text x="1218" y="104" fill="#aa9fa0" font-size="14" letter-spacing="4">SIGNAL / 01</text>
+    <text x="1218" y="696" fill="#ff4f61" font-size="14" letter-spacing="5">BLACK / WHITE / CRIMSON</text>
+    <text x="1530" y="746" text-anchor="end" fill="#aa9fa0" font-size="13" letter-spacing="2">ORIGINAL ART DIRECTION / 2026</text>
+  </g>
 </svg>
