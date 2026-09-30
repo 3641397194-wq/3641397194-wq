@@ -1,8 +1,8 @@
 <svg width="960" height="196" viewBox="0 0 960 196" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
   <title id="t">冷咖啡 QQ 社群卡</title>
-  <desc id="d">两个 QQ 社群入口，使用黑白漫画与绯红标注风格。</desc>
+  <desc id="d">三个社群入口：QQ 交流群 1057540028、QQ 专题群 1077074552、Cool coffeeAI 交流 618179023，使用黑白漫画与绯红标注风格。</desc>
   <rect x="1" y="1" width="958" height="194" fill="#0b0a0b" stroke="#5b3038" stroke-width="2"/>
-  <path d="M480 22V174" stroke="#3a252a"/>
+  <path d="M320 22V174M640 22V174" stroke="#3a252a"/>
   <g font-family="Arial,Microsoft YaHei,sans-serif">
     <rect x="24" y="24" width="52" height="52" fill="#d51f3d"/>
     <text x="50" y="56" text-anchor="middle" fill="#160608" font-size="15" font-weight="800">QQ</text>
@@ -10,11 +10,17 @@
     <text x="94" y="70" fill="#a9a29d" font-size="12">冷咖啡 / BREAK//OPEN</text>
     <text x="24" y="129" fill="#ff4f61" font-family="Consolas,monospace" font-size="29" font-weight="800">1057540028</text>
     <text x="24" y="160" fill="#a9a29d" font-size="12">扫码或搜索群号加入</text>
-    <rect x="504" y="24" width="52" height="52" fill="#f4f0eb"/>
-    <text x="530" y="56" text-anchor="middle" fill="#160608" font-size="15" font-weight="800">QQ</text>
-    <text x="574" y="47" fill="#f4f0eb" font-size="21" font-weight="800">专题群</text>
-    <text x="574" y="70" fill="#a9a29d" font-size="12">Codex / Claude / GLM 5.3</text>
-    <text x="504" y="129" fill="#ff4f61" font-family="Consolas,monospace" font-size="29" font-weight="800">1077074552</text>
-    <text x="504" y="160" fill="#a9a29d" font-size="12">模型工作流与视觉实验</text>
+    <rect x="344" y="24" width="52" height="52" fill="#f4f0eb"/>
+    <text x="370" y="56" text-anchor="middle" fill="#160608" font-size="15" font-weight="800">QQ</text>
+    <text x="414" y="47" fill="#f4f0eb" font-size="21" font-weight="800">专题群</text>
+    <text x="414" y="70" fill="#a9a29d" font-size="12">Codex / Claude / GPT-6</text>
+    <text x="344" y="129" fill="#ff4f61" font-family="Consolas,monospace" font-size="29" font-weight="800">1077074552</text>
+    <text x="344" y="160" fill="#a9a29d" font-size="12">模型工作流与视觉实验</text>
+    <rect x="664" y="24" width="52" height="52" fill="#d51f3d"/>
+    <text x="690" y="56" text-anchor="middle" fill="#160608" font-size="15" font-weight="800">AI</text>
+    <text x="734" y="47" fill="#f4f0eb" font-size="19" font-weight="800">Cool coffeeAI 交流</text>
+    <text x="734" y="70" fill="#a9a29d" font-size="12">冷咖啡 / AI 工作流</text>
+    <text x="664" y="129" fill="#ff4f61" font-family="Consolas,monospace" font-size="29" font-weight="800">618179023</text>
+    <text x="664" y="160" fill="#a9a29d" font-size="12">模型协作与实践交流</text>
   </g>
 </svg>

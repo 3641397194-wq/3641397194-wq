@@ -6,7 +6,7 @@
   <path d="M22 22L90 22L58 54L22 54Z" fill="#d51f3d"/>
   <text x="34" y="45" fill="#180608" font-family="Consolas,monospace" font-size="11" font-weight="700">// 01</text>
   <text x="34" y="92" fill="#f4f0eb" font-family="Arial,Microsoft YaHei,sans-serif" font-size="28" font-weight="800">冷咖啡 / BREAKLINE</text>
-  <text x="34" y="117" fill="#ff4f61" font-family="Consolas,monospace" font-size="12" letter-spacing="2">TOKYO GHOUL MOOD · GLM 5.3</text>
+  <text x="34" y="117" fill="#ff4f61" font-family="Consolas,monospace" font-size="12" letter-spacing="0">TOKYO GHOUL MOOD · GPT-6 ASTRA / GPT-6.1 SOL</text>
   <text x="34" y="151" fill="#a9a29d" font-family="Arial,Microsoft YaHei,sans-serif" font-size="13">黑白分镜 · 绯红信号 · 本地优先</text>
   <path d="M396 144L432 108M432 108H407M432 108V132" stroke="#ff4f61" stroke-width="3" stroke-linecap="square"/>
 </svg>
