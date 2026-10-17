@@ -13,7 +13,7 @@
   ·
   <a href="https://github.com/3641397194-wq/gpt6-Astra/blob/main/docs/index.html">查看完整主页</a>
   ·
-  <a href="#社群入口">三个 QQ 群</a>
+  <a href="#社群入口">QQ / Telegram</a>
 </p>
 
 </div>
@@ -49,6 +49,18 @@
 | QQ 交流群 | `1057540028` |
 | QQ 专题群 | `1077074552` |
 | Cool coffeeAI 交流 | `618179023` |
+
+<h3 align="center">Telegram</h3>
+<table align="center">
+  <tr>
+    <th align="center" width="280">Telegram 聊天群</th>
+    <th align="center" width="280">Telegram 频道</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://t.me/chachachachalkf"><code>t.me/chachachachalkf</code></a></td>
+    <td align="center"><a href="https://t.me/chachachalkf"><code>t.me/chachachalkf</code></a></td>
+  </tr>
+</table>
 
 ## 快速开始
 
