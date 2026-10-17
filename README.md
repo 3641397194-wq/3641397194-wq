@@ -45,22 +45,12 @@
 </div>
 
 | 平台 | 入口 |
-| --- | --- |
+| :--- | :--- |
 | QQ 交流群 | `1057540028` |
 | QQ 专题群 | `1077074552` |
 | Cool coffeeAI 交流 | `618179023` |
-
-<h3 align="center">Telegram</h3>
-<table align="center">
-  <tr>
-    <th align="center" width="280">Telegram 聊天群</th>
-    <th align="center" width="280">Telegram 频道</th>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://t.me/chachachachalkf"><code>t.me/chachachachalkf</code></a></td>
-    <td align="center"><a href="https://t.me/chachachalkf"><code>t.me/chachachalkf</code></a></td>
-  </tr>
-</table>
+| Telegram 聊天群 | [`t.me/chachachachalkf`](https://t.me/chachachachalkf) |
+| Telegram 频道 | [`t.me/chachachalkf`](https://t.me/chachachalkf) |
 
 ## 快速开始
 
